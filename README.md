@@ -1,2 +1,2 @@
-# example-files
+# Python scripts
 my test scripts 
