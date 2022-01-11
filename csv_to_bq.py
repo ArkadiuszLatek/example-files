@@ -31,3 +31,6 @@ schema = [
 ]
 df.to_gbq('ALatek.list', project_id='test_project', if_exists='append', table_schema=schema)
 print('data from file ' + str('testfile.csv') + ' appended')
+
+
+print('test')
