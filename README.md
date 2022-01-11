@@ -1,2 +1,2 @@
 # example-files
-my test files 
+my test scripts 
